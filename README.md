@@ -40,5 +40,3 @@ Add torchrun to path if ./run.sh gives error `torchrun: command not found`.
   url          = {https://github.com/KellerJordan/modded-nanogpt}
 }
 ```
-
-<img src="img/dofa.jpg" alt="itsover_wereback" style="width:100%;">
